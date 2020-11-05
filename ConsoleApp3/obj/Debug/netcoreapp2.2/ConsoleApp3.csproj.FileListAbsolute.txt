@@ -1,0 +1,11 @@
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.deps.json
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.json
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.dll
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.2\ConsoleApp3.pdb
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.AssemblyInfo.cs
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.dll
+C:\Users\sarvankm\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.2\ConsoleApp3.pdb
